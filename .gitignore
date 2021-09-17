@@ -1,5 +1,6 @@
 ﻿# フォルダごと無視
 /data/
+/scripts/
 
 # vscodeのワークスペースは無視
 *.code-workspace
