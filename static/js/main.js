@@ -23,8 +23,9 @@
 
     var html = document.querySelector("html");
 
-    var animationLoop;
     var scrollingNow = false;
+
+    var animationLoop;
 
     var scrollStep = 3;
     var defaultSpeed = 30;
