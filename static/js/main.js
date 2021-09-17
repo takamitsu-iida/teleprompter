@@ -130,5 +130,6 @@
     document.addEventListener("touchstart", toggle);
 
     rewind();
+    toggle();
   };
 })();
