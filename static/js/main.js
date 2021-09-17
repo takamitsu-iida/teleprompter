@@ -128,6 +128,7 @@
     });
 
     document.addEventListener("touchstart", toggle);
-    document.addEventListener("DOMContentLoaded", rewind);
+
+    rewind();
   };
 })();
